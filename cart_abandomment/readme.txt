@@ -1,0 +1,1 @@
+Esta carpeta posiblemente contenga archivos relacionados con el análisis y la predicción del abandono del carrito
