@@ -1,0 +1,12 @@
+- **Producto_Detalles_Vistos**: Indica si el cliente está viendo los detalles del producto (1: Sí, 0: No).
+- **Cantidad_Actividades_Sesión**: Número de veces que el cliente visita diferentes páginas durante la sesión.
+- **Cantidad_Artículos_En_Carro**: Número de artículos en el carrito de compra.
+- **Cantidad_Artículos_Eliminados_Carro**: Número de artículos eliminados del carrito de compra.
+- **Cantidad_Visitas_Carro**: Número de veces que el cliente visita la página del carrito de compra.
+- **Confirmaciones_Compra**: Número de confirmaciones exitosas de compra por parte del cliente.
+- **Inicios_Pago**: Número de veces que se inicia el proceso de pago, ya sea con éxito o sin éxito.
+- **Vistas_Productos_Carro**: Número de veces que el usuario ve los productos en el carrito de compra.
+- **Inicios_Sesión_Cliente**: Número de veces que el cliente inicia sesión.
+- **Vistas_Páginas**: Número de páginas vistas por el cliente.
+- **Segmento_Cliente**: Categoría a la que pertenece el cliente (Cliente Objetivo, Cliente  Leal, Cliente No Segmentado).
+- **Abandono_Carro**: Indica si el cliente ha abandonado el carrito de compra (1: Sí, 0: No).
