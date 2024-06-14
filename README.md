@@ -48,8 +48,8 @@ pip install -r requirements.txt
 
 ## Miembros del equipo
 - Arelys Acevedo (Data Analyst)
-- Raul Almao (Data Scientist)
-- Nico Rodriguez [https://www.linkedin.com/in/ralmao/] (Data Scientist)
+- Raul Almao [https://www.linkedin.com/in/ralmao/] (Data Scientist)
+- Nico Rodriguez (Data Scientist)
 - Noe Machaca [https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/] (ETL Developper)
 
 
