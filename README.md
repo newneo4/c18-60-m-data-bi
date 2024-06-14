@@ -36,3 +36,20 @@ Puedes instalar todas las dependencias utilizando `pip`:
 
 ```sh
 pip install -r requirements.txt
+```
+
+## Presentacion del Proyecto
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/f9e02f40-bbc4-4d02-aacf-fe64600a3fbd)
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/e21c540c-0bd6-4014-bf6e-61274abfefc8)
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/730d4e1f-9d74-4d77-b0d0-6fef975e6a88)
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/5db02a65-502c-4bd1-8f8e-8d4bbf9b50f3)
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/b3b5e577-4f61-4438-9b42-f19d4fd9ed7b)
+![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/ea85036c-7330-4eef-a9e5-9222f7f1e77b)
+
+## Miembros del equipo
+- Arelys Acevedo (Data Analyst)
+- Raul Almao (Data Scientist)
+- Nico Rodriguez (Data Scientist)
+- Noe Machaca (ETL Developper)
+
+
