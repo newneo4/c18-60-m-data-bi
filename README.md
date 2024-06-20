@@ -46,10 +46,11 @@ pip install -r requirements.txt
 ![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/b3b5e577-4f61-4438-9b42-f19d4fd9ed7b)
 ![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/ea85036c-7330-4eef-a9e5-9222f7f1e77b)
 
-## Miembros del equipo
-- Arelys Acevedo (Data Analyst)
-- Raul Almao [https://www.linkedin.com/in/ralmao/] (Data Scientist)
-- Nico Rodriguez (Data Scientist)
-- Noe Machaca [https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/] (ETL Developper)
+## Miembros del Equipo
+- Arelys Acevedo (<a href="https://www.linkedin.com/in/arelys-acevedo/">LinkedIn</a>)(Data Analyst)
+- Raul Almao (<a href="https://www.linkedin.com/in/ralmao/">LinkedIn</a>) (Data Scientist)
+- Nico Rodriguez (<a href="https://www.linkedin.com/in/nicodriguez3/">LinkedIn</a>)(Data Analyst) (Data Scientist)
+- Noe Machaca (<a href="https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/">LinkedIn</a>) (ETL Developer)
+
 
 
